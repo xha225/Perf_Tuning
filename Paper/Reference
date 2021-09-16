@@ -4,8 +4,8 @@
 3. Automated diagnosis of software configuration errors: https://ieeexplore.ieee.org/abstract/document/6606577
 4. X-Ray: https://www.usenix.org/conference/osdi12/technical-sessions/presentation/attariyan
 
-5.Precomputing possible configuration error diagnoses.
-6.
+5. Precomputing possible configuration error diagnoses: https://ieeexplore.ieee.org/document/6100053
+6. ConfProf: White-Box Performance Profiling of Configuration Options: https://dl.acm.org/doi/10.1145/3427921.3450255
 
 7.
 8.
